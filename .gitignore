@@ -2,6 +2,7 @@ bin
 bin-test
 .idea
 
+*.iml
 /library/gluegen-rt*.jar
 /library/jogl-all*.jar
 
